@@ -20,8 +20,10 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 <p align="center">
 
+<a href="https://alonacosta.gumroad.com/l/kanban-board">
+  <img src="https://img.shields.io/badge/🛒_Buy_Now-Gumroad-success?style=for-the-badge">
+</a>
 <a href="#"><img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-blue?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/🛒_Purchase-Coming_Soon-success?style=for-the-badge"></a>
 
 </p>
 
@@ -140,9 +142,11 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 ## 🛒 Purchase
 
-The full source code will be available as a commercial product.
+The full source code is available as a commercial product on Gumroad.
 
-Stay tuned for the official release.
+👉 [Buy Laravel Vue Kanban Board](https://alonacosta.gumroad.com/l/qaznt)
+
+After purchase, you will receive access to the project source code and setup instructions.
 
 ## 📄 License
 
