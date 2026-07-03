@@ -91,7 +91,7 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 | Hero | Features |
 |------|----------|
-| ![](screenshots/hero.png) | ![](screenshots/hero-1.png) |
+| ![](screenshots/hero.png) | ![](screenshots/hero-2.png) |
 
 | Tech Stack |
 |------------|
