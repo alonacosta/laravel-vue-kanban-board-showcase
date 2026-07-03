@@ -89,7 +89,13 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 ### Landing Page
 
-![Landing Page](screenshots/landing-page.png)
+| Hero | Features |
+|------|----------|
+| ![](screenshots/hero.png) | ![](screenshots/hero-1.png) |
+
+| Tech Stack |
+|------------|
+| ![](screenshots/hero-2.png) |
 
 ---
 
@@ -101,7 +107,7 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 | Task Details | Label Management |
 |--------------|------------------|
-| ![](screenshots/task-dialog.png) | ![](screenshots/manage-labels.png) |
+| ![](screenshots/task-dialog.png) | ![](screenshots/label-management.png) |
 
 
 ## 🛠 Tech Stack
