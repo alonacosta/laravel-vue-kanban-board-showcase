@@ -12,7 +12,7 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 > 🚀 A commercial Laravel & Vue Kanban Board built for modern project management applications.
 
-![Hero](assets/screenshots/kanban.png)
+![Hero](screenshots/kanban.png)
 
 <p align="center">
 
