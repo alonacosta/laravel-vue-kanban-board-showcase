@@ -95,7 +95,7 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 | Tech Stack |
 |------------|
-| ![](screenshots/hero-2.png) |
+| ![](screenshots/hero-3.png) |
 
 ---
 
