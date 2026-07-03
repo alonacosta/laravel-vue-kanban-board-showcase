@@ -14,6 +14,10 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 ![Hero](screenshots/kanban.png)
 
+## 🎥 Demo
+
+![Drag & Drop](screenshots/drag-drop.gif)
+
 <p align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-blue?style=for-the-badge"></a>
