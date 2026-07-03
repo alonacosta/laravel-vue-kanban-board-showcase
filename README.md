@@ -35,7 +35,7 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 | Vue | 3 |
 | PHP | 8.4 |
 | License | Commercial |
-| Demo | Coming Soon |
+| Purchase | Available on Gumroad |
 
 > [!NOTE]
 > This repository is a showcase of the project.
