@@ -8,7 +8,7 @@ Modern Kanban Board built with Laravel 13, Vue 3, Inertia.js and TypeScript.
 ![Inertia](https://img.shields.io/badge/Inertia.js-2-purple)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-4-38bdf8)
 
-Designed with clean architecture, reusable components and modern Laravel best practices.
+Designed with clean architecture, reusable Vue components, modern Laravel best practices, and a polished Light & Dark interface.
 
 > 🚀 A commercial Laravel & Vue Kanban Board built for modern project management applications.
 
@@ -46,9 +46,12 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 ### 📊 Dashboard
 
-- Dashboard overview
-- Task statistics
-- Responsive layout
+- Responsive design
+- Light & Dark themes
+- Clean interface
+- Smooth drag & drop
+- Keyboard shortcuts
+- Empty states
 
 ### 📋 Kanban Board
 
@@ -57,6 +60,7 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 - Task priorities
 - Due dates
 - Labels
+- Label management
 - Search tasks
 - Filter by priority
 - Filter by labels
@@ -111,9 +115,17 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 |------------|--------------|
 | ![](screenshots/dashboard.png) | ![](screenshots/kanban-board.png) |
 
+| Dashboard (Dark) | Kanban Board (Dark) |
+|------------------|---------------------|
+| ![](screenshots/dashboard-dark.png) | ![](screenshots/kanban-dark.png) |
+
 | Task Details | Label Management |
 |--------------|------------------|
 | ![](screenshots/task-dialog.png) | ![](screenshots/label-management.png) |
+
+| Task Dialog (Dark) | Label Management (Dark) |
+|------------------|-----------------------|
+| ![](screenshots/task-dialog-dark.png) | ![](screenshots/label-management-dark.png) |
 
 
 ## 🛠 Tech Stack
@@ -144,7 +156,7 @@ Designed with clean architecture, reusable components and modern Laravel best pr
 
 The full source code is available as a commercial product on Gumroad.
 
-👉 [Buy Laravel Vue Kanban Board](https://alonacosta.gumroad.com/l/qaznt)
+👉 [Buy Laravel Vue Kanban Board]([https://alonacosta.gumroad.com/l/kanban-board])
 
 After purchase, you will receive access to the project source code and setup instructions.
 
