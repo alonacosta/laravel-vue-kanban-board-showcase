@@ -156,7 +156,7 @@ Designed with clean architecture, reusable Vue components, modern Laravel best p
 
 The full source code is available as a commercial product on Gumroad.
 
-👉 [Buy Laravel Vue Kanban Board]([https://alonacosta.gumroad.com/l/kanban-board])
+👉 [Buy Laravel Vue Kanban Board](https://alonacosta.gumroad.com/l/kanban-board)
 
 After purchase, you will receive access to the project source code and setup instructions.
 
